@@ -1,0 +1,6 @@
+{
+  "name": "Payment Sandbox & QA Lab",
+  "description": "Laboratório para desenvolvedores e analistas de QA: testes de validação de cartões, algoritmo de Luhn, análise de BIN e simulação de gateway de pagamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
